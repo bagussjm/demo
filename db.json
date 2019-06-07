@@ -1,7 +1,5 @@
-{
-"post" : [{"id":"11","name":"ACEH"},
+[{"id":"11","name":"ACEH"},
            {"id":"12","name":"SUMATERA UTARA"},
            {"id":"13","name":"SUMATERA BARAT"},
            {"id":"14","name":"RIAU"}
           ]
-}
